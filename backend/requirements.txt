@@ -36,7 +36,7 @@ bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 blinker @ file:///C:/b/abs_d9y2dm7cw2/croot/blinker_1696539752170/work
 bokeh @ file:///C:/b/abs_74ungdyhwc/croot/bokeh_1706912192007/work
 boltons @ file:///C:/ci_311/boltons_1677729932371/work
-botocore @ file:///C:/b/abs_5a285dtc94/croot/botocore_1701286504141/work
+
 Bottleneck @ file:///C:/b/abs_f05kqh7yvj/croot/bottleneck_1707864273291/work
 Brotli @ file:///C:/ci_311/brotli-split_1676435766766/work
 cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
